@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi</h1>
-<h3 align="center">Computer Science Student | Full Stack Developer | Java & Python</h3>
+<h3 align="center">CSE (AI&ML) | Full Stack Developer | Java & Python</h3>
 
 ---
 
