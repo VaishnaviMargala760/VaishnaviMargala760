@@ -6,7 +6,7 @@
 ### 🚀 About Me
 - 🎓 B.Tech CSE Student (2027 Graduate)
 - 💻 Learning Java & Python
-- 🌍 Dream: Software Engineer in USA
+- 🌍 Dream: Software Engineer 
 - 🔥 Currently building Full Stack Projects
 
 ---
@@ -21,11 +21,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Vaishnavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=VaishnaviMargala760&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviMargala760&layout=compact&theme=tokyonight)
 
 ---
 
