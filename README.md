@@ -30,5 +30,5 @@
 ---
 
 ### 🌐 Connect With Me
-- LinkedIn: (your link)
-- Portfolio: (your link)
+- LinkedIn: https://www.linkedin.com/in/vaishnavi-margala-320586358/
+
